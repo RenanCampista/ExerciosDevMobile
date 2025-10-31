@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Imposto de Renda</string>
+    <string name="hint_salario">Salário (R$)</string>
+    <string name="hint_gastos">Gastos (R$)</string>
+    <string name="hint_dependentes">Nº de dependentes</string>
+    <string name="resultado_inicial">SEU IMPOSTO DE RENDA MENSAL:\nR$ 0</string>
+    <string name="btn_calcular">CALCULAR</string>
+</resources>
